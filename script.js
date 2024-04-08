@@ -15626,7 +15626,7 @@ const UF = ({name: A})=>{
                     height: "auto"
                 }
             }), tA.jsx("p", {
-                className: "text-xs sm:text-sm md:text-xl lg:text-2xl string-font font-bold z-10 text-custom-purple absolute bottom-1/4 left-1/2 transform -translate-x-1/2",
+                className: "text-xs sm:text-sm md:text-xl lg:text-2xl font-bold z-10 text-custom-purple absolute bottom-1/4 left-1/2 transform -translate-x-1/2",
                 children: A
             })]
         }), tA.jsx("button", {
