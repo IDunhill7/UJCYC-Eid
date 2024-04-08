@@ -518,7 +518,7 @@ img,video {
 
 @media (min-width: 640px) {
     .sm\:text-sm {
-        font-size: 1.25rem;
+        font-size: 2rem;
         line-height: 1.25rem
     }
 }
@@ -529,12 +529,12 @@ img,video {
     }
 
     .md\:text-2xl {
-        font-size: 1.5rem;
+        font-size: 2rem;
         line-height: 2rem
     }
 
     .md\:text-xl {
-        font-size: 1.25rem;
+        font-size: 2rem;
         line-height: 1.75rem
     }
 }
@@ -545,7 +545,7 @@ img,video {
     }
 
     .lg\:text-2xl {
-        font-size: 1.5rem;
+        font-size: 2rem;
         line-height: 2rem
     }
 
