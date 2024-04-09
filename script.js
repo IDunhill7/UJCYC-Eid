@@ -15619,7 +15619,7 @@ const UF = ({name: A})=>{
             ref: e,
             className: "relative",
             children: [tA.jsx("img", {
-                src: "./assests/card.svg",
+                src: "./assests/card.png",
                 alt: "Background",
                 style: {
                     width: "100%",
